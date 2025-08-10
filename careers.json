@@ -1,0 +1,8 @@
+[
+  {"role":"Data Analyst","short_reason":"Data analysis, SQL, Excel","required_skills":["sql","excel","python","data visualization","statistics"], "description":"Work with datasets, SQL, Python, dashboards."},
+  {"role":"Machine Learning Engineer","short_reason":"ML models + deployment","required_skills":["machine learning","python","tensorflow","pytorch","docker"], "description":"Build and productionize ML models."},
+  {"role":"Frontend Developer","short_reason":"UI + React","required_skills":["javascript","react","html","css","ui"], "description":"Build web UIs using JS/React."},
+  {"role":"Backend Developer","short_reason":"APIs, databases","required_skills":["python","django","nodejs","sql","docker"], "description":"Build backend services and APIs."},
+  {"role":"DevOps Engineer","short_reason":"CI/CD, infra","required_skills":["docker","kubernetes","aws","terraform","ci/cd"], "description":"Maintain infra, deploy apps."},
+  {"role":"Product Manager","short_reason":"Strategy + communication","required_skills":["communication","product","analytics","roadmapping","research"], "description":"Define product vision and roadmap."}
+]
