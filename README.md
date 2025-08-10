@@ -2,14 +2,14 @@
 
 # Smart-Career-Recommendation-System
 
-# 🎯 Smart Career Recommendation System (AI + Skills & Interests)
+#  Smart Career Recommendation System (AI + Skills & Interests)
 
 A Streamlit-based AI application that recommends personalized career paths for students and professionals based on their **skills, interests, and live job market trends**.  
 It also generates **skill gap analysis** and a **learning roadmap** to help users upskill effectively.
 
 ---
 
-## 🚀 Features
+## Features
 - **Resume Parsing** – Extract skills & keywords from PDF/DOCX resumes  
 - **Interests Survey** – Understand user preferences & passions  
 - **AI Recommendations** – Suggest best-fit career paths with demand score  
@@ -20,7 +20,7 @@ It also generates **skill gap analysis** and a **learning roadmap** to help user
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** Streamlit
 - **Backend:** Python
 - **NLP:** spaCy, Sentence Transformers
@@ -30,7 +30,7 @@ It also generates **skill gap analysis** and a **learning roadmap** to help user
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone the repo
